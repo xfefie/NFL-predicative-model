@@ -1,5 +1,5 @@
 # NFL-predictions-model
-Project to make an NFL and CFB predictive model based on manual input of an avg. of a 6 second latency input. Quick overview on a vibe-coded site (https://app.base44.com/apps/69571cbb4f25a7692117583f/editor/preview).
+Project to make an NFL and CFB predictive model based on manual input of an avg. of a 6 second latency input. Quick overview on a vibe-coded site (https://situation-iq-2117583f.base44.app/).
 
 
 # SituationIQ — Manual Model (README)
